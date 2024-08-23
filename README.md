@@ -1,3 +1,3 @@
 # MC-Hinglish1.0
 Multi-classification Hinglish Codemixed Dataset
-(Will be available soon)
+(If anyone want this dataset for research purpose, Please mail: sahinurlaskar.nits@gmail.com)
