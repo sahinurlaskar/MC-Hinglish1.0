@@ -1,9 +1,9 @@
 # MC-Hinglish1.0
 Multi-classification Hinglish Codemixed Dataset (updated repository link):
 https://huggingface.co/datasets/sahinurlaskar/MC-Hinglish1.0 
-# Paper Link: 
+# Paper Link
 https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4989
-# Corresponding Author mail:  
+# Corresponding Author mail 
 sahinurlaskar.nits@gmail.com
 
 # Citation
