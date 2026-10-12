@@ -1,7 +1,9 @@
 # MC-Hinglish1.0
 Multi-classification Hinglish Codemixed Dataset updated repository link:
 https://huggingface.co/datasets/sahinurlaskar/MC-Hinglish1.0 
-(If anyone want this dataset for research purpose, Please mail: sahinurlaskar.nits@gmail.com)
+
+# Corresponding Author mail:  
+sahinurlaskar.nits@gmail.com
 
 # Citation
 If you use the MC-Hinglish1.0 dataset in your research, please cite the original paper.
