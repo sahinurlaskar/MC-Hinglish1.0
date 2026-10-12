@@ -3,7 +3,7 @@ Multi-classification Hinglish Codemixed Dataset
 (If anyone want this dataset for research purpose, Please mail: sahinurlaskar.nits@gmail.com)
 
 # Citation
-If you use the MC-Hinglish1.0 dataset in your research, please cite the original paper:
+If you use the MC-Hinglish1.0 dataset in your research, please cite the original paper.
 
 # BibTex
 @article{Laskar2024_CYS,
