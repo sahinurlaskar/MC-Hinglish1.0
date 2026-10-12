@@ -4,7 +4,7 @@ https://huggingface.co/datasets/sahinurlaskar/MC-Hinglish1.0
 # Paper Link
 https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4989
 # Contributor and Corresponding Author mail 
-(Sahinur Rahman Laskar) sahinurlaskar.nits@gmail.com
+Dr. Sahinur Rahman Laskar sahinurlaskar.nits@gmail.com
 
 # Citation
 If you use the MC-Hinglish1.0 dataset in your research, please cite the original paper.
